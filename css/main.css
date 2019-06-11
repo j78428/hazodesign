@@ -869,16 +869,17 @@ footer .copyright {
 }
 
 .main_content .bottom_block .info_box .info_title {
-    color: #999;
+    color: #333;
     letter-spacing: 2px;
     margin-bottom: 5px;
     font-size: 16px;
     border-bottom: 3px solid #ffdb00;
-    padding-bottom: 2px;
+    padding-bottom: 5px;
     display: inline-block;
 }
 
 .main_content .bottom_block .info_box .info_content {
+    color: #666;
     line-height: 24px;
 }
 
