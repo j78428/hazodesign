@@ -871,10 +871,10 @@ footer .copyright {
 .main_content .bottom_block .info_box .info_title {
     color: #333;
     letter-spacing: 2px;
-    margin-bottom: 5px;
+    margin-bottom: 8px;
     font-size: 16px;
     border-bottom: 3px solid #ffdb00;
-    padding-bottom: 5px;
+    padding-bottom: 4px;
     display: inline-block;
 }
 
