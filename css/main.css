@@ -2149,7 +2149,7 @@ input[type="radio"]+label {
 
 .link_text {
     font-size: 14px;
-    color: #999;
+    color: #666;
     text-decoration: underline;
     cursor: pointer;
 }
