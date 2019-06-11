@@ -2149,13 +2149,13 @@ input[type="radio"]+label {
 
 .link_text {
     font-size: 14px;
-    color: #30B2EB;
+    color: #999;
     text-decoration: underline;
     cursor: pointer;
 }
 
 .link_text:hover {
-    color: #22a5de;
+    color: #333;
 }
 
 
