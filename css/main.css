@@ -710,6 +710,9 @@ footer .copyright {
     margin-top: 40px;
     margin-bottom: 30px;
     letter-spacing: 5px;
+    border-bottom: 5px solid #ffdb00;
+    padding: 10px 0;
+    display: inline-block;
     opacity: 1;
     transition: all 1s ease-in-out;
 }
@@ -868,8 +871,11 @@ footer .copyright {
 .main_content .bottom_block .info_box .info_title {
     color: #999;
     letter-spacing: 2px;
-    margin-bottom: 3px;
+    margin-bottom: 5px;
     font-size: 16px;
+    border-bottom: 3px solid #ffdb00;
+    padding-bottom: 2px;
+    display: inline-block;
 }
 
 .main_content .bottom_block .info_box .info_content {
@@ -1526,7 +1532,7 @@ input[type="radio"]+label {
 
 
 .btn_style1 {
-    background: #ffe900;
+    background: #ffdb00;
     color: #333;
     border-color: #ffe101;
     box-shadow: 0px 5px 19px -5px rgba(28, 50, 110, 0.3);
